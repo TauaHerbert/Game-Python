@@ -13,17 +13,17 @@
 ## ✨ Funcionalidades
 * **Menu Interativo:** Navegação centralizada entre diferentes jogos através de `match-case`.
 * **Jokempo:** Modo singleplayer contra a máquina.
-## 🚀 Como Executar
-Como o projeto utiliza uma estrutura de pacotes para organização, utilize o comando abaixo na raiz do projeto:
-
-1. Clone o repositório.
-2. Certifique-se de estar na pasta raiz `Python Systens`.
-3. Execute via terminal:
 ## 🗺️ Roadmap de Desenvolvimento
 - [x] Menu Principal e Sistema de Limpeza de Tela
 - [x] Jokenpo (Singleplayer)
 - [ ] Jogo da Velha (Multiplayer) - *Em desenvolvimento*
 - [ ] Desafio da Probabilidade - *Planejado*
+## 🚀 Como Executar
+Como o projeto utiliza uma estrutura de pacotes para organização, utilize o comando abaixo na raiz do projeto:
 
+1. Clone o repositório.
+2. Certifique-se de estar na pasta raiz.
+3. Execute via terminal:
 ```bash
 python -m (a sua pasta).main
+
