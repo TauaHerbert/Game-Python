@@ -10,13 +10,16 @@ while(True):
 
     match op:
         case 1:
+            os.system('cls')
             print("Game 1")
         case 2:
             os.system('cls')
             Jokempo.rodar_jokenpo()
         case 3:
+            os.system('cls')
             print("Game 3")
         case 4:
+            os.system('cls')
             print("Game 4")
         case 0:
             print("Aplicação encerrada!")
