@@ -1,4 +1,5 @@
 from _Game_ import Jokempo
+from _Game_ import JogoDaVelha
 import os
 
 while(True):
@@ -11,7 +12,7 @@ while(True):
     match op:
         case 1:
             os.system('cls')
-            print("Game 1")
+            JogoDaVelha.rodar_jogo_da_velha()
         case 2:
             os.system('cls')
             Jokempo.rodar_jokenpo()
