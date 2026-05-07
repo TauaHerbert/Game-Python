@@ -16,7 +16,7 @@
 ## 🗺️ Roadmap de Desenvolvimento
 - [x] Menu Principal e Sistema de Limpeza de Tela
 - [x] Jokenpo (Singleplayer)
-- [ ] Jogo da Velha (Multiplayer) - *Em desenvolvimento*
+- [x] Jogo da Velha (Multiplayer)
 - [ ] Desafio da Probabilidade - *Planejado*
 ## 🚀 Como Executar
 Como o projeto utiliza uma estrutura de pacotes para organização, utilize o comando abaixo na raiz do projeto:
