@@ -17,7 +17,7 @@
 - [x] Menu Principal e Sistema de Limpeza de Tela
 - [x] Jokenpo (Singleplayer)
 - [x] Jogo da Velha (Multiplayer)
-- [ ] Desafio da Probabilidade - *Planejado*
+- [ ] Desafio da Probabilidade - *Em desenvolvimento...*
 ## 🚀 Como Executar
 Como o projeto utiliza uma estrutura de pacotes para organização, utilize o comando abaixo na raiz do projeto:
 

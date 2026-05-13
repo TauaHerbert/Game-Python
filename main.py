@@ -1,5 +1,6 @@
 from _Game_ import Jokempo
 from _Game_ import JogoDaVelha
+from  _Game_ import Probabilidade
 import os
 
 while(True):
@@ -18,7 +19,7 @@ while(True):
             Jokempo.rodar_jokenpo()
         case 3:
             os.system('cls')
-            print("Game 3")
+            Probabilidade.CarregarJogo()
         case 4:
             os.system('cls')
             print("Game 4")
